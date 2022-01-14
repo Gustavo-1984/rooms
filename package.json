@@ -1,0 +1,15 @@
+{
+  "name": "iluminacion",
+  "version": "0.0.1",
+  "description": "prueba tecnica",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --stack-size=1600000 app.js"
+  },
+  "author": "Gustavo González",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0"
+  }
+}
